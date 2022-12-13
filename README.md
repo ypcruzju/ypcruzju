@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Yax👋 -😄 Pronouns: he/him
+
+
+- Flatiron School Grad
+
+- JavaScript, ReactJS, Ruby on Rails
+
+
+-👯 Looking to collaborate on new project ideas!
+
+-⚡ Fun fact: 5+ years in customer service, cooking and kitchen management and operations.
 
 <!--
 **ypcruzju/ypcruzju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
