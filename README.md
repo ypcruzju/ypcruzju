@@ -1,4 +1,4 @@
-### Hi there, I'm Yax👋 -😄 Pronouns: he/him
+### Hi there, I'm Yax Pac👋 -😄 Pronouns: he/him
 
 
 - Flatiron School Grad
